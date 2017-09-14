@@ -29,7 +29,7 @@ NOTE: In this guide we are not trying to create fully working YARN application, 
 
 include::https://raw.githubusercontent.com/spring-guides/getting-started-macros/master/how_to_complete_this_guide.adoc[]
 
-If you're not familiar with gradle, refer to
+If you're not familiar with Maven, refer to
 link:/guides/gs/maven[Building Java Projects with Maven].
 
 [[scratch]]
